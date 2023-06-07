@@ -4,4 +4,16 @@
 body {
     background-color: var(--cor-de-fundo);
 }
-
+.cabeçalho__menu-amado.batista.html {
+    width: 24px;
+    height: 24px;
+    background: url ("../img/menu.svg");
+    display: inline-block; 
+}
+:root {
+    --cor-de-fundo: #00eeff; 
+    --branco: #ffffff; 
+}
+.cabeçalho {
+    background-color: var(--branco);
+}
