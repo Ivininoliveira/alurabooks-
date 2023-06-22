@@ -1,5 +1,5 @@
 :root {
-    --cor-de-fundo: #0254f8;
+    --cor-de-fundo: #023292;
 }
 body {
     background-color: var(--cor-de-fundo);
@@ -13,8 +13,8 @@ body {
     display: inline-block; 
 }
 :root {
-    --cor-de-fundo: #00eeff; 
-    --branco: #ffffff; 
+    --cor-de-fundo: #4240bd; 
+    --branco: #fdfafa; 
 }
 .cabeçalho {
     background-color: var(--branco);
