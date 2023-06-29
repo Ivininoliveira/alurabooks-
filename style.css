@@ -1,28 +1,6 @@
 :root {
-    --cor-de-fundo: #d16d6d;
+    --cor-de-fundo: #02bff8;
 }
 body {
     background-color: var(--cor-de-fundo);
-}
-.cabeçalho__menu-amado.batista.html {
-    width: 24px;
-    height: 24px;
-    background: url ("../img/menu.svg");
-    background-repeat: no-repeat;
-    background-position: center;
-    display: inline-block; 
-}
-:root {
-    --cor-de-fundo: #bb5252; 
-    --branco: #000000; 
-}
-.cabeçalho {
-    background-color: var(--branco);
-    display: flex; 
-    justify-content: space-between;
-    align-items: center;
-}
-.container{
-    display: flex; 
-    align-items: center;
 }
